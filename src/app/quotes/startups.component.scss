@@ -1,0 +1,16 @@
+.quotes {
+  background: url('https://images.unsplash.com/photo-1510975203040-1c35fa924809?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f88ea2799975f7e2b0cd4a6815aa5bb1&auto=format&fit=crop&w=1350&q=80');
+  min-height: 1000px;
+  padding: 50px 100px;
+  background-size: cover;
+  text-align: center;
+  button {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(10, 10, 10, 0);
+    border: 2px solid #000;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-size: 20px;
+  }
+}
